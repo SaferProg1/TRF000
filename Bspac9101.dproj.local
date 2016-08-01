@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/01 09:41:41.000.805,D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001\Unt000005.pas=</Transaction>
+    <Transaction>2015/09/01 09:41:53.000.474,=D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001NEW\Unt000005.pas</Transaction>
+    <Transaction>2015/09/01 09:42:11.000.324,=D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001NEW\Unt000006.pas</Transaction>
+    <Transaction>2015/09/01 14:22:13.000.794,D:\Desenvolvimento\Fontes\Bspac9000\Ngscv0101_0001\Bspac9101.dproj=D:\Desenvolvimento\Fontes\Bspac9000\Ngscv0101_0001\Ngscv0101.dproj</Transaction>
+    <Transaction>2015/09/01 14:27:29.000.850,D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001NEW\Unt000006.pas=</Transaction>
+    <Transaction>2015/09/01 14:33:30.000.383,=D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001NEW\Unt000006.pas</Transaction>
+    <Transaction>2015/09/02 08:05:24.000.070,=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\UntDOC.pas</Transaction>
+    <Transaction>2015/09/02 11:18:03.000.989,=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unit1.pas</Transaction>
+    <Transaction>2015/09/02 11:18:44.000.536,D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unit1.dfm=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unt00105.dfm</Transaction>
+    <Transaction>2015/09/02 11:18:44.000.536,D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unit1.pas=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unt00105.pas</Transaction>
+    <Transaction>2015/09/02 14:41:59.000.403,=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unit1.pas</Transaction>
+    <Transaction>2015/09/02 14:42:19.000.751,D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unit1.pas=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unt00106.pas</Transaction>
+    <Transaction>2015/09/02 14:42:19.000.751,D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unit1.dfm=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101 XE5\Unt00106.dfm</Transaction>
+    <Transaction>2016/05/03 08:13:23.000.208,D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001NEW\Unt000006.pas=</Transaction>
+    <Transaction>2016/05/03 08:13:25.000.766,D:\Desenvolvimento\Fontes\Ngscv0000\Ngscv0001NEW\Unt000005.pas=</Transaction>
+    <Transaction>2016/05/03 08:13:47.000.879,=D:\Desenvolvimento\Fontes\Bspac0000_Util\XE5\Unt_Util.pas</Transaction>
+    <Transaction>2016/05/03 08:13:47.000.796,=D:\Desenvolvimento\Fontes\Bspac0000_Util\XE5\Unt_Conexao.pas</Transaction>
+    <Transaction>2016/05/21 14:15:06.000.683,=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101\Unit1.pas</Transaction>
+    <Transaction>2016/05/21 14:18:02.000.899,D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101\Unit1.dfm=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101\Unt00107.dfm</Transaction>
+    <Transaction>2016/05/21 14:18:02.000.899,D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101\Unit1.pas=D:\Desenvolvimento\Fontes\Bspac9100\Bspac9101\Unt00107.pas</Transaction>
+  </Transactions>
+</BorlandProject>
